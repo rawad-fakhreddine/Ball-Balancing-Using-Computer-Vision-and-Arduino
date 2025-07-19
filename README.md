@@ -57,3 +57,5 @@ This project simulates and implements a ball-on-platform stabilizing system, whe
 	3D-Printed Mechanical Linkage System
 
 	Laptop running Python for YOLOv8 + RL
+ 
+![photo_6035036591640135786_y](https://github.com/user-attachments/assets/ba74d33f-7a64-4c6d-855c-d5367be41764)
