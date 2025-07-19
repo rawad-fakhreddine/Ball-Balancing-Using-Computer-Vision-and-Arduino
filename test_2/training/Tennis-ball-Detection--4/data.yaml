@@ -1,0 +1,12 @@
+names:
+- Tennis-Ball
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: tennis-ball-detection-a5vwz
+  url: https://universe.roboflow.com/rawad/tennis-ball-detection-a5vwz/dataset/4
+  version: 4
+  workspace: rawad
+test: ../Tennis-ball-Detection--4/test/images
+train: ../Tennis-ball-Detection--4/train/images
+val: ../Tennis-ball-Detection--4/valid/images
